@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5261872aaf3f524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brand-demo/source/测试2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7655c2394e65da36",
+  "active": "a5261872aaf3f524",
   "lastOpenFiles": [
-    "brand-demo/source/测试.md",
+    "brand-demo/source/测试3.md",
     "brand-demo/source/测试2.md",
+    "brand-demo/source/测试.md",
+    "brand-demo/source/未命名",
     "brand-demo/source"
   ]
 }
